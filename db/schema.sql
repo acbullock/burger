@@ -1,8 +1,10 @@
 ### Schema
 
-CREATE DATABASE burgers_db;
-USE burgers_db;
+-- CREATE DATABASE burgers_db;
+-- USE burgers_db;
+-- Since im using free version of JAWSDB
 
+USE yzdbmjxmr0x85ibr;
 CREATE TABLE burgers
 (
 	id int NOT NULL AUTO_INCREMENT,
